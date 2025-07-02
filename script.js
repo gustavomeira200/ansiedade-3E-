@@ -1,20 +1,20 @@
 const perguntas = [
     {
-        Enunciado: "",
+        Enunciado: "1.Com que frequência você sente que está prestes a perder o controle?"                                                                                                                                                                                                                                  ",
         alternativas: [
             {
-                texto:"",
+                texto:"Frequêntemente- Você sente que as situações escapam do seu controle frequentemente",
                 afirmação: ""
             },
             {
-                texto:"",
+                texto:"Raramente - Você sente que consegue manter o controle na maioria das vezes.",
                 afirmação: ""
             }
         ]
     },
     {
         {
-        Enunciado: "",
+        Enunciado: "Você tem dificuldade para dormir devido à preucupação?",
         alternativas: [
             {
                 texto:"",
