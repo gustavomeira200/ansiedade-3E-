@@ -14,21 +14,21 @@ const perguntas = [
     },
     {
         {
-        Enunciado: "Você tem dificuldade para dormir devido à preucupação?",
+        Enunciado: "2.Você tem dificuldade para dormir devido à preucupação?",
         alternativas: [
             {
-                texto:"",
+                texto:"Sim - A preucupação atrapalha seu sono e causa insônnia.",
                 afirmação: ""
             },
             {
-                texto:"",
+                texto:"Não - Você consegue relaxar o suficiente para dormir bem.",
                 afirmação: ""
             }
         ]
     },
     {
         {
-        Enunciado: "",
+        Enunciado: "3. Quando algo inesperado aconte",
         alternativas: [
             {
                 texto:"",
