@@ -28,10 +28,10 @@ const perguntas = [
     },
     {
         {
-        Enunciado: "3. Quando algo inesperado aconte",
+        Enunciado: "3. Quando algo inesperado acontece,como você reage ?",
         alternativas: [
             {
-                texto:"",
+                texto:"Sim - • Fico muito ansioso(a) → Você se sente muito ansioso(a) e tem dificuldade para lidar com mudanças.",
                 afirmação: ""
             },
             {
